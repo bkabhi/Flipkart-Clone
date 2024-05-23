@@ -16,7 +16,7 @@ We all are students of masai school full stack web development course , In masai
 
 # DEPLOYED LINKS
 
-#### NETLIFY :- https://flipkart-bkabhi.netlify.app
+#### NETLIFY :- https://flip-kart-bkabhi.netlify.app/products
 #### GITHUB :- https://github.com/Sukantad/Flipkart-Clone
 
 # FUNCTIONALITIES
